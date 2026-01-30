@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  background: #f2f4f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.wifi-card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+button {
+  background: #19b6c9;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+img {
+  width: 200px;
+  margin-top: 15px;
+}
